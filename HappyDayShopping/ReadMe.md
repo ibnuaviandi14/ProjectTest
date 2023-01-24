@@ -21,3 +21,4 @@ Trying to buy an item on the application and ensure the item has been added into
 
 Detail steps:
 file:///C:/Users/dell/Katalon%20Studio/Final%20Project/Reports/20230111_105741/HappyDayShopping/HappyDayShopping%201/20230111_105741.html
+

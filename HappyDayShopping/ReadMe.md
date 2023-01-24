@@ -1,5 +1,5 @@
 # INTRODUCTION
-ANDROID TESTING
+ANDROID TESTING WITH KATALON
 
 # AIM
 Perform the Android Automation Testing for HappyDayShopping
